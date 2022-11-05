@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "mzk1",
+	"parent": "minigun",
 	"textures": {
 		"0": "moha/colors/haiiro2",
 		"1": "moha/colors/dummy",
