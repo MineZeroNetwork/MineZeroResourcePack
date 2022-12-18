@@ -1,0 +1,80 @@
+{
+  "shoot.sniper": {
+    "category": "master",
+    "sounds": [
+      "shoot/sniper"
+    ]
+  },
+  "shoot.bigsniper": {
+    "category": "master",
+    "sounds": [
+      "shoot/bigsniper"
+    ]
+  },
+  "guns.yakkyou1": {
+    "category": "master",
+    "sounds": [
+      "guns/yakkyou1"
+    ]
+  },
+  "guns.yakkyou2": {
+    "category": "master",
+    "sounds": [
+      "guns/yakkyou2"
+    ]
+  },
+  "shoot.operator": {
+    "category": "master",
+    "sounds": [
+      "shoot/operator"
+    ]
+  },
+  "shoot.tourdeforce": {
+    "category": "master",
+    "sounds": [
+      "shoot/tourdeforce"
+    ]
+  },
+  "slot.godspin": {
+    "category": "master",
+    "sounds": [
+      "slot/godspin"
+    ]
+  },
+  "slot.god": {
+    "category": "master",
+    "sounds": [
+      "slot/god"
+    ]
+  },
+  "slot.jagspin": {
+    "category": "master",
+    "sounds": [
+      "slot/jagspin"
+    ]
+  },
+  "slot.jagstop": {
+    "category": "master",
+    "sounds": [
+      "slot/jagstop"
+    ]
+  },
+  "slot.jagbb1": {
+    "category": "master",
+    "sounds": [
+      "slot/jagbb1"
+    ]
+  },
+  "slot.jagbb2": {
+    "category": "master",
+    "sounds": [
+      "slot/jagbb2"
+    ]
+  },
+  "slot.jagbb3": {
+    "category": "master",
+    "sounds": [
+      "slot/jagbb3"
+    ]
+  }
+}

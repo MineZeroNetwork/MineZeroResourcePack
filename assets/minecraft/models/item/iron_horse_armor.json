@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_horse_armor"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 1}, "model": "guns/minigun"},
+    { "predicate": {"custom_model_data": 2}, "model": "guns/scythe"},
+    { "predicate": {"custom_model_data": 3}, "model": "guns/mzk1"},
+    { "predicate": {"custom_model_data": 4}, "model": "guns/mzk2"},
+    { "predicate": {"custom_model_data": 5}, "model": "guns/utiwa"},
+    { "predicate": {"custom_model_data": 6}, "model": "guns/tourdeforce"},
+    { "predicate": {"custom_model_data": 7}, "model": "guns/tourdeforce_scope"},
+    { "predicate": {"custom_model_data": 8}, "model": "guns/b3l"},
+    { "predicate": {"custom_model_data": 9}, "model": "guns/freezewand"},
+    { "predicate": {"custom_model_data": 10}, "model": "guns/smg"},
+    { "predicate": {"custom_model_data": 11}, "model": "guns/shotgun"},
+    { "predicate": {"custom_model_data": 12}, "model": "guns/pachinko"},
+    { "predicate": {"custom_model_data": 13}, "model": "guns/chainsawman"},
+    { "predicate": {"custom_model_data": 14}, "model": "guns/chainsawman_arm"},
+    { "predicate": {"custom_model_data": 15}, "model": "default/iron_horse_armor"}
+  ]
+}

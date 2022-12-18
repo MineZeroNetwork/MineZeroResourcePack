@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/golden_horse_armor"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 1}, "model": "numbers/1"},
+    { "predicate": {"custom_model_data": 2}, "model": "numbers/2"},
+    { "predicate": {"custom_model_data": 3}, "model": "numbers/3"},
+    { "predicate": {"custom_model_data": 4}, "model": "numbers/4"},
+    { "predicate": {"custom_model_data": 5}, "model": "numbers/5"},
+    { "predicate": {"custom_model_data": 6}, "model": "numbers/6"},
+    { "predicate": {"custom_model_data": 7}, "model": "numbers/7"},
+    { "predicate": {"custom_model_data": 8}, "model": "numbers/8"},
+    { "predicate": {"custom_model_data": 9}, "model": "numbers/9"},
+    { "predicate": {"custom_model_data": 10}, "model": "numbers/0"},
+    { "predicate": {"custom_model_data": 11}, "model": "default/golden_horse_armor"},
+    { "predicate": {"custom_model_data": 20}, "model": "slot/slotseven"},
+    { "predicate": {"custom_model_data": 21}, "model": "default/golden_horse_armor"},
+    { "predicate": {"custom_model_data": 100}, "model": "event/candlestick"},
+    { "predicate": {"custom_model_data": 101}, "model": "event/stove"},
+    { "predicate": {"custom_model_data": 102}, "model": "default/golden_horse_armor"}
+  ]
+}
