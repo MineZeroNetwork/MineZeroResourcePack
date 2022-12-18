@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"parent": "minigun",
 	"textures": {
-		"0": "moha/colors/haiiro2",
-		"1": "moha/colors/dummy",
-		"2": "moha/colors/red",
-		"particle": "moha/colors/haiiro2"
+		"0": "mizugashi15/colors/haiiro2",
+		"1": "mizugashi15/colors/dummy",
+		"2": "mizugashi15/colors/red",
+		"particle": "mizugashi15/colors/haiiro2"
 	},
 	"elements": [
 		{
